@@ -1,0 +1,49 @@
+[{
+        "pictureUrl": "https://img.freepik.com/premium-photo/laptop-computer-with-lighting-dark-background-3d-illustration_717906-1496.jpg?size=626&ext=jpg&ga=GA1.1.1544568529.1684157972&semt=ais",
+        "name": "Laptop",
+        "detail": "Laptop",
+        "price": "899$"
+    },
+    {
+        "pictureUrl": "https://img.freepik.com/premium-photo/perspective-view-blank-dark-modern-laptop-screen-with-copyspace-your-text-logo-empty-light-grey-table-blurred-bookcase-window-background-3d-rendering-mock-up_688884-91.jpg?size=626&ext=jpg&ga=GA1.2.1544568529.1684157972&semt=ais",
+        "name": "Azus Laptop",
+        "detail": "Laptop",
+        "price": "799$"
+    },
+    {
+        "pictureUrl": "https://img.freepik.com/premium-photo/minimalistic-designer-computer-with-empty-black-computer-screen_670147-36671.jpg?size=626&ext=jpg&ga=GA1.1.1544568529.1684157972&semt=ais",
+        "name": "Desktop",
+        "detail": "Desktop",
+        "price": "1250.99$"
+    },
+    {
+        "pictureUrl": "https://img.freepik.com/premium-photo/gamer-computer-desktop-with-rgb-lights-background-modern-pc-computer-white-screen-mockup-gaming-keyboard-3d-rendering-illustration_37129-3182.jpg?size=626&ext=jpg&ga=GA1.1.1544568529.1684157972&semt=ais",
+        "name": "Gaming Desktop",
+        "detail": "New Gaming PC",
+        "price": "2200$"
+    },
+    {
+        "pictureUrl": "https://images.news18.com/ibnlive/uploads/2021/10/asus-rog-strix-g15-advantage-edition-review-16339401303x2.jpeg",
+        "name": "Azus Rog",
+        "detail": "Gaming desktop",
+        "price": "1860$"
+    },
+    {
+        "pictureUrl": "data:image/jpeg;base64,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",
+        "name": "Azus VivoBook",
+        "detail": "Vivo Book",
+        "price": "650$"
+    },
+    {
+        "pictureUrl": "https://example.com/black-jean.jpg",
+        "name": "Black Jean",
+        "detail": "New Jean",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/pink-sneaker.jpg",
+        "name": "Pink Sneaker",
+        "detail": "New Sneaker",
+        "price": "10$"
+    }
+]

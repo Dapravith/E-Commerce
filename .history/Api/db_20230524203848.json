@@ -1,0 +1,49 @@
+[{
+        "pictureUrl": "https://img.freepik.com/premium-photo/laptop-computer-with-lighting-dark-background-3d-illustration_717906-1496.jpg?size=626&ext=jpg&ga=GA1.1.1544568529.1684157972&semt=ais",
+        "name": "Laptop",
+        "detail": "Laptop",
+        "price": "899$"
+    },
+    {
+        "pictureUrl": "https://example.com/black-cap.jpg",
+        "name": "Black Cap",
+        "detail": "New Cap",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/blue-jean.jpg",
+        "name": "Blue Jean",
+        "detail": "New Jean",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/white-sneaker.jpg",
+        "name": "White Sneaker",
+        "detail": "New Sneaker",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/green-shirt.jpg",
+        "name": "Green Shirt",
+        "detail": "New Shirt",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/white-cap.jpg",
+        "name": "White Cap",
+        "detail": "New Cap",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/black-jean.jpg",
+        "name": "Black Jean",
+        "detail": "New Jean",
+        "price": "10$"
+    },
+    {
+        "pictureUrl": "https://example.com/pink-sneaker.jpg",
+        "name": "Pink Sneaker",
+        "detail": "New Sneaker",
+        "price": "10$"
+    }
+]
