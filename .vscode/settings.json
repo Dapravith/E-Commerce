@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "[Visual Studio Dark][Default Dark+]": {
+            "tab.activeBorder": "#0F0"
+        },
+        "editor.wordHighlightStrongBorder": "#FF6347",
+        "editor.wordHighlightBorder": "#FFD700",
+        "editor.selectionHighlightBorder": "#A9A9A9"
+    }
+}
