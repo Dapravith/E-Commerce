@@ -1,7 +1,7 @@
 # Laravel E-commerce Website
 
 ## Installation 
-Make sure you have environment setup properly. You will need MySQL, PHP8.1 and composer.
+Make sure you have environment setup properly. You will need MySQL, PHP8.2 and composer.
 
 1. Download the project (or clone using GIT)
 2. Copy `.env.example` into `.env` and configure database credentials
