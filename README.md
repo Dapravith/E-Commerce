@@ -10,3 +10,6 @@ Make sure you have environment setup properly. You will need MySQL, PHP8.2 and c
 5. Set the encryption key by executing `php artisan key:generate --ansi`
 6. Run migrations `php artisan migrate`
 7. Start local server by executing `php artisan serve`
+
+# Database Schema
+![DatabaseSchema](https://github.com/Dapravith/E-Commerce/assets/90898700/d8dd4188-e623-4ef1-a2cc-a7647bfdcd70)
