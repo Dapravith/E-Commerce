@@ -1,7 +1,4 @@
-# Laravel E-commerce Website
-E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
-
-> If you want to see every single step how this E-commerce application is build and learn how to build your own Full Stack applications, check my website [thecodeholic.com](https://thecodeholic.com)
+# Laravel E-commerce Website for Computer Shop
 
 ## Database Schema
 ![DatabaseSchema](https://github.com/Dapravith/E-Commerce/assets/90898700/fbe02546-9292-47db-8120-579e3c771ed7)
